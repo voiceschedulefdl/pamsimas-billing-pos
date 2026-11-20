@@ -55,7 +55,7 @@ Email: voiceschedule.fdl@gmail.com
 
 ## Changelog
 
-### v1.0.0 (November 2026)
+### v1.1.0 (November 2026)
 - Rilis perdana
 - Fitur foto meteran + share struk via WhatsApp
 - Cetak struk printer thermal Bluetooth
